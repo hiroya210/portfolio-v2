@@ -1,5 +1,7 @@
-function App() {
-  return <h1>Hello world</h1>
+import Canvas from "./Canvas"
+
+const App = () => {
+  return <Canvas />
 }
 
 export default App;
